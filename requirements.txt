@@ -1,0 +1,7 @@
+ttkthemes
+beautifulsoup4
+requests
+pandas
+selenium
+lxml
+playwright

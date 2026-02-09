@@ -1,0 +1,12 @@
+{
+  "CHROMEDRIVER_PATH": "G:\\My Drive\\Programing\\Python\\chromedriver\\142.0.7444.162\\chromedriver-win64\\chromedriver.exe",
+  "HEADLESS_MODE": true,
+  "SELENIUM_WAIT": 10,
+  "REQUESTS_TIMEOUT": 20,
+  "USER_AGENT": "Mozilla/5.0",
+  "GUI_THEME": "arc",
+  "GUI_FONT_FAMILY": "Meiryo UI",
+  "GUI_FONT_SIZE_NORMAL": 10,
+  "CHROME_EXEC_PATH_PW": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "CHROME_USER_DATA_DIR_PW": "C:\\temp\\chrome-pw"
+}
